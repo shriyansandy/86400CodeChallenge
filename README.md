@@ -12,7 +12,8 @@ Note: I have checked in "exapmle.env" file. Please copy the content into your ".
 ****************************************************************************************************
 Steps to follow
 ****************************************************************************************************
-1. Once you pull the code from git repo, run npm install from root directory of the project.
+1. Once you pull the code from git repo(git clone git@github.com:shriyansandy/86400CodeChallenge.git), 
+run npm install from root directory of the project.
 2. To run api Tests run the following command - "npm run api_tests"
 3. To run ui Tests run the following command - "npm run ui_tests"
 4. To genereate report run the following command - "npm run generate_report"
